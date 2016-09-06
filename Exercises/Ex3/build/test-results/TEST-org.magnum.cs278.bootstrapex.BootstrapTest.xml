@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.magnum.cs278.bootstrapex.BootstrapTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2016-09-06T17:20:57" hostname="Johns-MacBook-Pro-2.local" time="0.394">
+  <properties/>
+  <testcase name="testStep0" classname="org.magnum.cs278.bootstrapex.BootstrapTest" time="0.008"/>
+  <testcase name="testStep1" classname="org.magnum.cs278.bootstrapex.BootstrapTest" time="0.0"/>
+  <testcase name="testStep2" classname="org.magnum.cs278.bootstrapex.BootstrapTest" time="0.014"/>
+  <testcase name="testStep3" classname="org.magnum.cs278.bootstrapex.BootstrapTest" time="0.34"/>
+  <testcase name="testStep4" classname="org.magnum.cs278.bootstrapex.BootstrapTest" time="0.017"/>
+  <system-out><![CDATA[{"name":"Lally,John","iamInClass":true,"iunderstandThatIAmBoundByTheHonorCode":true}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
